@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasith Dilhara</h1>
-<h3 align="center">A passionate Backend developer from Sri lanka</h3>
+<h3 align="center">A passionate Back-end developer from Sri lanka</h3>
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=hasithdilhara&label=Profile%20views&color=0e75b6&style=flat" alt="hasithdilhara" /> </p>
 
