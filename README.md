@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasith Dilhara</h1>
-<h3 align="center">A passionate Back-end developer from Sri lanka</h3>
+<h3 align="center">Cybersecurity Enthusiast| Back-end developer </h3>
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=hasithdilhara&label=Profile%20views&color=0e75b6&style=flat" alt="hasithdilhara" /> </p>
 
@@ -8,6 +8,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 - 🔭 I’m currently working on **Back-end developer**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLTC Research University**
 
 - 🌱 I’m currently learning **HTML,JavaScript,React,CSS,My SQL**
 
