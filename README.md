@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Back-end developer**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLTC Research University**
+- 🔭 I’m an Undergraduate at **SLTC Research University**
 
 - 🌱 I’m currently learning **HTML,JavaScript,React,CSS,My SQL**
 
