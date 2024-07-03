@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hasithdilhara12345@gmail.com**
 
-- ⚡ Fun fact **Call Me As Dila**
+- ⚡ Fun fact **Call Me As Tutuu**
 
 
 <h3 align="left">Connect with me: 
